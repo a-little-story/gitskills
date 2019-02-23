@@ -5,6 +5,4 @@ test checkout
 
 
 chongtu
-=======
-conflict
 
