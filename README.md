@@ -5,8 +5,7 @@ test checkout
 
 
 
-conflict
-=======
+
 chongtu
 >>>>>>> dev
 
